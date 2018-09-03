@@ -5,7 +5,7 @@ Group Maker
 
 ##  Description
 ```The Team Generator - make random teams.```
-Random Team Generator. Enter a  csv file consiting list of names, pick the number of teams you want, and the generator will randmoly chooses the team of number specified and saves the result in a new file called result.csv 
+Random Team Generator. Enter a  csv file consisting list of names, pick the number of teams you want, and the generator will randmoly chooses the team of number specified and saves the result in a new file called result.csv 
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ run groupmaker.py
 ## Authors
 
 * **Achyuth Koneri** - *web developer* - [Achyuth Koneri](https://github.com/achyuthkv)
-***Ashwin K S**-*web developer* -[Ashwin K S](https://github.com/iamashwinks)
+* **Ashwin K S**-*web developer* -[Ashwin K S](https://github.com/iamashwinks)
 
 
 
